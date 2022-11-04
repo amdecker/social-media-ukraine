@@ -6,3 +6,5 @@ Resources: \
 [Trump Analysis](http://varianceexplained.org/r/trump-tweets/)
 
 Our [Google Drive](https://drive.google.com/drive/folders/15Qjdw28F8FDfLcHre9S0Kz6olRX2iqoF) has more resources and notes from meetings on next steps
+
+Ukrainian stop words from https://github.com/skupriienko/Ukrainian-Stopwords/blob/master/stopwords_ua.txt
