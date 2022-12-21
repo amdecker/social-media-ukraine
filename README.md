@@ -8,3 +8,4 @@ Resources and References: \
 [tf-idf Python](https://towardsdatascience.com/clustering-documents-with-python-97314ad6a78d) \
 [Social Media Narratives across Platforms in Conflict: Evidence from Syria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075120) \
 Ukrainian stop words from https://github.com/skupriienko/Ukrainian-Stopwords/blob/master/stopwords_ua.txt \
+[Final Presentation](https://docs.google.com/presentation/d/1dQGdr5h4STjZzrb11cSrDYE8YOTpYsRM/edit?usp=sharing&ouid=114925085891069020544&rtpof=true&sd=true)
