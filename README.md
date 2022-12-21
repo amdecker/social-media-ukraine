@@ -13,7 +13,7 @@ In this project, we used the Kaggle Dataset about the Ukraine-Russia war. We als
 [Trump Analysis](http://varianceexplained.org/r/trump-tweets/) \
 [tf-idf Python](https://towardsdatascience.com/clustering-documents-with-python-97314ad6a78d) \
 [Social Media Narratives across Platforms in Conflict: Evidence from Syria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075120) \
-[Ukrainian stop words](https://github.com/skupriienko/Ukrainian-Stopwords/blob/master/stopwords_ua.txt) \
+[Ukrainian stop words](https://github.com/skupriienko/Ukrainian-Stopwords/blob/master/stopwords_ua.txt) 
 
 ### Final Presentation
 [Final Presentation](https://docs.google.com/presentation/d/1dQGdr5h4STjZzrb11cSrDYE8YOTpYsRM/edit?usp=sharing&ouid=114925085891069020544&rtpof=true&sd=true)
@@ -23,4 +23,4 @@ In this project, we used the Kaggle Dataset about the Ukraine-Russia war. We als
 Jimmy Chien [Github](https://github.com/jycc-267)  [Linkedin]()\
 Amos Decker [Github](https://github.com/amdecker)  [Linkedin](https://www.linkedin.com/in/amosdecker/)\
 Emil Rustamli [Github](https://github.com/EmilRustamli)  [Linkedin](https://www.linkedin.com/in/emil-rustamli/) \
-Haider Gillani [Github]()  [Linkedin](https://www.linkedin.com/in/haider-gillani-b87b90210/)\
+Haider Gillani [Github]()  [Linkedin](https://www.linkedin.com/in/haider-gillani-b87b90210/)
