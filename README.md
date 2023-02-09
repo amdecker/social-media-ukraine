@@ -23,4 +23,4 @@ In this project, we used the Kaggle Dataset about the Ukraine-Russia war. We als
 Jimmy Chien [Github](https://github.com/jycc-267)  [Linkedin]()\
 Amos Decker [Github](https://github.com/amdecker)  [Linkedin](https://www.linkedin.com/in/amosdecker/)\
 Emil Rustamli [Github](https://github.com/EmilRustamli)  [Linkedin](https://www.linkedin.com/in/emil-rustamli/) \
-Haider Gillani [Github]()  [Linkedin](https://www.linkedin.com/in/haider-gillani-b87b90210/)
+Haider Gillani [Github](https://github.com/haidergillani)  [Linkedin](https://www.linkedin.com/in/haider-gillani-b87b90210/)
