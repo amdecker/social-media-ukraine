@@ -6,7 +6,7 @@ The project focuses on the Social Media activity related to the Russian invasion
 In this project, we used the Kaggle Dataset about the Ukraine-Russia war. We also scraped data from Ukrainian government officials' Twitter and Facebook accounts to analyze the factors leading to viral posts on the given topic. The project includes an analysis of posts' exact wording, sentiment analysis, and activity correlation with the location and time. We focus on which words or combination of words lead to the most activity, the most frequent words used by the Ukrainian officials, the most salient words from President Zelenskyy's tweets, and word co-occurrences in posts related to the war. The aim is to understand the contributing factors to a tweet's popularity.
 
 ### Results
-
+Research finds no correlation between the emotional tone of social media posts and their virality. Additionally, researchers report that the majority of the tweets that went viral and included negative sentiments were expressing condolences rather than aggression.
 
 ### Resources and References:
 [Kaggle Dataset](https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows/code?resource=download) \
